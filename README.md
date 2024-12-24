@@ -1,6 +1,6 @@
 # Early_MS_Detection: Project Motivation
 This project aims to investigate data gathered from retinal images through the development of machine learning (ML) and DL models, in an effort to differentiate healthy individuals and those with early signs of MS. By detecting cases early, patients can receive
-treatment early to prevent the aggravation of their condition.
+treatment early to prevent the aggravation of their condition. This project is inspired by a coursework set by Dr. Kafieh of Durham Bioengineering. 
 
 **Technical Details**
 
@@ -32,3 +32,5 @@ Simply download the .ipynb file and run it on Google Colab or Jupyter Notebook!
 **Data Availability:**
 
 FIVES dataset:  https://doi.org/10.6084/m9.figshare.19688169.v1
+
+Jin, K., Huang, X., Zhou, J. et al. FIVES: A Fundus Image Dataset for Artificial Intelligence based Vessel Segmentation. Sci Data 9, 475 (2022). https://doi.org/10.1038/s41597-022-01564-3 
